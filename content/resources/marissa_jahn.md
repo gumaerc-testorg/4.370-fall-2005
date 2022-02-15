@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the project report on dis/mantle which includes
   cape and sewing kit, incantation, spell, hoax, hex, invitations and responses etc.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-370-interrogative-design-workshop-fall-2005/1e6a4de7c16f5238bef4a5026d778c20_marissa_jahn.pdf
+file: /media/courses/4-370-interrogative-design-workshop-fall-2005/1e6a4de7c16f5238bef4a5026d778c20_marissa_jahn.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: marissa_jahn.pdf
 uid: 1e6a4de7-c16f-5238-bef4-a5026d778c20

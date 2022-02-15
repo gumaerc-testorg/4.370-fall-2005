@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Joe Dahmen's midterm presentation. Image courtesy of Joe Dahmen.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-370-interrogative-design-workshop-fall-2005/adecfba62dd44e84b58996dfc299658d_dahmen_midterm.jpg
+file: /media/courses/4-370-interrogative-design-workshop-fall-2005/adecfba62dd44e84b58996dfc299658d_dahmen_midterm.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Joe Dahmen's midterm presentation.
   credit: Image courtesy of Joe Dahmen.
   image-alt: Dahmen midterm.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Image Gallery
+parent_type: CourseSection
 resourcetype: Image
 title: dahmen_midterm.jpg
 uid: adecfba6-2dd4-4e84-b589-96dfc299658d

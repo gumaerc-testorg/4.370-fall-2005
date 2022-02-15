@@ -1,12 +1,14 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: a14dd162-9a70-c37c-4252-6c4081baa7d2
 ---
 
 Student Projects
 ----------------
-{{< image-gallery id="a14dd162-9a70-c37c-4252-6c4081baa7d2_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-370-interrogative-design-workshop-fall-2005/" >}}
+{{< image-gallery id="a14dd162-9a70-c37c-4252-6c4081baa7d2_nanogallery2" baseUrl="/courses/4-370-interrogative-design-workshop-fall-2005/" >}}
 {{< image-gallery-item href="9db0386769b8faedc8c3a610a78fffce_campos_midterm.jpg" data-ngdesc="Student presents concept of a post-traumatic blanket: sound as shelter. Image courtesy of Tim Campos." text="Student presents concept of a post-traumatic blanket: sound as shelter." >}}
 {{< image-gallery-item href="bda1d5bbbcf7be972b4d6d81f1ff0038_campos_final.jpg" data-ngdesc="Student testing a blanket that records and plays back sound. Image courtesy of Tim Campos." text="Student testing a blanket that records and plays back sound." >}}
 {{< image-gallery-item href="adecfba62dd44e84b58996dfc299658d_dahmen_midterm.jpg" data-ngdesc="Joe Dahmens midterm presentation. Image courtesy of Joe Dahmen." text="Joe Dahmens midterm presentation." >}}
