@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 020280fd-7edb-6c81-76f2-9b4fecf1ec39
 resourcetype: Document
 title: jae_rhim_lee.pdf
 uid: f4c5285e-f7f0-1b0a-6ba8-3a820f303c02

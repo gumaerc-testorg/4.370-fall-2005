@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 020280fd-7edb-6c81-76f2-9b4fecf1ec39
 resourcetype: Document
 title: marissa_jahn.pdf
 uid: 1e6a4de7-c16f-5238-bef4-a5026d778c20

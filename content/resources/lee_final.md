@@ -17,6 +17,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
+parent_uid: a14dd162-9a70-c37c-4252-6c4081baa7d2
 resourcetype: Image
 title: lee_final.jpg
 uid: 6513a6c9-d984-d39d-91dc-d7e4e6225fa1

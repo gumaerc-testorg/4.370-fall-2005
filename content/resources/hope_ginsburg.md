@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 020280fd-7edb-6c81-76f2-9b4fecf1ec39
 resourcetype: Document
 title: hope_ginsburg.pdf
 uid: b57d3a02-0fc2-c3a4-98c6-7f2420f07679

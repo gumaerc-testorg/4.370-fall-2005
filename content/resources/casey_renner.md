@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 020280fd-7edb-6c81-76f2-9b4fecf1ec39
 resourcetype: Document
 title: casey_renner.pdf
 uid: cb3369f8-ccef-e62c-169d-19bcfe17bd39

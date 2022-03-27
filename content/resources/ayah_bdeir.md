@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 020280fd-7edb-6c81-76f2-9b4fecf1ec39
 resourcetype: Document
 title: ayah_bdeir.pdf
 uid: 91836e07-7438-5c5a-b799-6b6bba70e204
