@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an overview, introduction, project, class structure
+  and contributors of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
