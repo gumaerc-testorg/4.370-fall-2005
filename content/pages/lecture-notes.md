@@ -2,24 +2,23 @@
 content_type: page
 description: This section lists the lecture files along with video presentations as
   per the topics covered in the course.
+draft: false
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: bbc6c24f-d86e-5ef7-92e7-6ec6a5e580a8
 ---
-
 In addition to attending regularly scheduled lectures, students were encouraged to participate in the Center for Advanced Visual Studies (CAVS) lecture series by attending three lectures. In this series, three artists spoke about their recent work. Video of their presentations are available below.
 
-{{% resource_link fa033d5f-dbc2-8d58-b9a7-f012cd451148 "Session 7: Vito Acconci Studio" %}}
+{{% resource_link "fa033d5f-dbc2-8d58-b9a7-f012cd451148" "Session 7: Vito Acconci Studio" %}}
 
-{{% resource_link 097ecc9f-e235-a90a-3b96-f54c833cca7e "Session 16: Pia Lindman" %}}
+{{% resource_link "097ecc9f-e235-a90a-3b96-f54c833cca7e" "Session 16: Pia Lindman" %}}
 
-{{% resource_link a27087e0-86ea-7906-2672-ba64657fec1f "Session 20: Judith Barry" %}}
+{{% resource_link "a27087e0-86ea-7906-2672-ba64657fec1f" "Session 20: Judith Barry" %}}
 
-Related Presentation:
----------------------
+## Related Presentation:
 
-{{% resource_link 66cf993d-318b-1949-2115-60ed4ec42e8c "Simon Starling, March 9, 2006" %}}
+{{% resource_link "66cf993d-318b-1949-2115-60ed4ec42e8c" "Simon Starling, March 9, 2006" %}}
 
-Note: These files are also available from [iTunes U](https://itunes.apple.com/us/itunes-u/id341595686), [YouTube](http://youtube.com/view_play_list?p=D4AC203F9610E412), and the Internet Archive in two collections- [Sessions 7-20](https://archive.org/details/MIT4.370F05/) and [Simon Starling](http://archive.org/details/MIT4.367S06/).
+Note: These files are also available from {{% resource_link "1facf939-3023-493a-b2b0-49ee9761b0aa" "YouTube" %}} and the Internet Archive in two collections- {{% resource_link "0283e595-b059-463c-9320-146169e79fec" "Sessions 7-20" %}} and {{% resource_link "2fce6e2c-a764-4e87-9e96-3759f84b4d94" "Simon Starling" %}}.
