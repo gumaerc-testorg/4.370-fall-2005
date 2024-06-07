@@ -3,6 +3,7 @@ content_type: resource
 description: 'Student presents concept of a post-traumatic blanket: "sound as shelter".
   Image courtesy of Tim Campos.'
 file: /courses/4-370-interrogative-design-workshop-fall-2005/9db0386769b8faedc8c3a610a78fffce_campos_midterm.jpg
+file_size: 41376
 file_type: image/jpeg
 image_metadata:
   caption: 'Student presents concept of a post-traumatic blanket: "sound as shelter".'

@@ -4,6 +4,7 @@ description: Marissa Jahn presents her final project, a cloak and sewing kit, th
   allows the wearer to attach parts of the cloak to others' wardrobes. Image courtesy
   of Marissa Jahn.
 file: /courses/4-370-interrogative-design-workshop-fall-2005/c8af66852562c77bbe2893dd0e8a3777_jahn_final.jpg
+file_size: 41319
 file_type: image/jpeg
 image_metadata:
   caption: Marissa Jahn presents her final project, a cloak and sewing kit, that allows
