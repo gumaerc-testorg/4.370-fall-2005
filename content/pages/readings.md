@@ -34,7 +34,7 @@ Class Introduction - Guest Presentation: Jimmy Chen
 {{< tdopen >}}
 
 
-Foucault, Michel. "{{% resource_link "fac32efd-aa1b-4722-88f6-04af5eaa2296" "Fearless Speech" %}}."
+Foucault, Michel. "[Fearless Speech](https://monoskop.org/images/b/ba/Foucault_Michel_Fearless_Speech.pdf)."
 
 Testimonials.
 
@@ -72,15 +72,15 @@ Introduction to VAP Shop Facilities (Charlie Mathis)
 
 Papanek, Victor. _Design for the real world: human ecology and social change_. Chicago, IL: Academy Chicago, 1985. ISBN: 0897331532.
 
-Mouffe, Chantal. "Which Democracy in a post-political age?" _The Dark Markets: Infopolitics, electronic media and democracy in times of crisis._ lecture series, Public netbase / t0, Wein, October 5, 2002. Video documentation: ({{% resource_link "a315c58d-e8a9-4007-b329-4a43c861eda3" "RAM" %}}) (31/03/2003).
+Mouffe, Chantal. "Which Democracy in a post-political age?" _The Dark Markets: Infopolitics, electronic media and democracy in times of crisis._ lecture series, Public netbase / t0, Wein, October 5, 2002. Video documentation: ([RAM](http://darkmarkets.t0.or.at/video/mouffe.ram)) (31/03/2003).
 
-Dobson, Kelly: {{% resource_link "84c04ef0-1659-46d4-a6d6-4f9c643c50d0" "ScreamBody" %}}.
+Dobson, Kelly: [ScreamBody](https://www.media.mit.edu/events/2009/04/27/kelly-dobson-machine-therapy).
 
 Michael Rakowitz: ParaSITE, RISE.
 
-Wochenklausur: {{% resource_link "df8f2616-792d-46fd-947d-e9fd6a53db8d" "Art and Sociopolitical Intervention" %}}.
+Wochenklausur: [Art and Sociopolitical Intervention](http://www.wochenklausur.at/methode.php?lang=en).
 
-N55: 3 selections from "Manual for N55." In _N55 Book_. Odder, Denmark: Narayana Press, 2003. ISBN: 8791409055. ({{% resource_link "d554b092-4473-4010-9e36-51314be21e9d" "PDF - 8.9 MB" %}})
+N55: 3 selections from "Manual for N55." In _N55 Book_. Odder, Denmark: Narayana Press, 2003. ISBN: 8791409055. ([PDF - 8.9 MB](http://www.n55.dk/N55_BOOK_PDF/N55BOOK.pdf))
 
 
 {{< tdclose >}}
@@ -162,9 +162,9 @@ CAVS Lecture: Vito Acconci Studio
 {{< tdopen >}}
 
 
-Thoreau, Henry David. {{% resource_link "a92bcd97-3d3d-4b28-ba43-3b9020e4d517" "On Civil Disobedience" %}}.
+Thoreau, Henry David. [On Civil Disobedience](http://www.transcendentalists.com/civil_disobedience.htm).
 
-Critical Arts Ensemble. {{% resource_link "3411e947-826a-4812-82a8-9d31732e4531" "_Electronic Civil Disobedience_" %}}. Brooklyn, NY: Autonomedia, 1995.
+Critical Arts Ensemble. [_Electronic Civil Disobedience_](http://www.critical-art.net/books/ecd/index.html). Brooklyn, NY: Autonomedia, 1995.
 
 Benjamin, Walter. "Critique of Violence." In _Selected Writings Vol. 1: 1913-1926_. Translated by Edmund Jephcott. Cambridge, MA: Belknap Press, 1996. ISBN: 0674945859.
 
@@ -254,7 +254,7 @@ Castells, Manuel. "Immigrant Workers and Class Struggles in Advanced Capitalism.
 
 Levinas, Emanuel. "Cities of Refuge." In _Beyond the Verse: Talmudic Readings and Lectures_. London, UK: Athlone Press, 1994. ISBN: 0485114305.
 
-{{% resource_link "28b873e7-3336-40a9-9d4e-44dc0c1ded83" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Deutsche, Rosalyn. _Evictions: Art and Spatial Politics_. Cambridge, MA: MIT Press, 1996. ISBN: 9780262041584.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262041584) Deutsche, Rosalyn. _Evictions: Art and Spatial Politics_. Cambridge, MA: MIT Press, 1996. ISBN: 9780262041584.
 
 Hannah Arendt. (Selected readings.)
 
@@ -314,7 +314,7 @@ Guest Presentation
 {{< tdopen >}}
 
 
-N55. "{{% resource_link "599f9f6b-8c9b-467a-86cf-dea2ab27627b" "Art and Reality" %}}," and "{{% resource_link "7417fe06-1800-4916-a8b0-e5eeb1043c33" "N55 Manual" %}}."
+N55. "[Art and Reality](http://www.n55.dk/MANUALS/DISCUSSIONS/N55_TEXTS/art_reality.html)," and "[N55 Manual](http://www.n55.dk/MANUALS/N55/n55.html)."
 
 Fuller, Buckminster. _Utopia or Oblivion_. New York, NY: Bantam Books, 1969. ISBN: 0553028839.
 

@@ -5,6 +5,7 @@ description: Green Skirt/Green Urinal, a tool that would facilitate public urina
   and offer an ecological solution to the growing wastewater and sewage treatment
   problem. Image courtesy of Jae Rhim Lee.
 file: /courses/4-370-interrogative-design-workshop-fall-2005/6513a6c9d984d39d91dcd7e4e6225fa1_lee_final.jpg
+file_size: 40176
 file_type: image/jpeg
 image_metadata:
   caption: Green Skirt/Green Urinal, a tool that would facilitate public urination,

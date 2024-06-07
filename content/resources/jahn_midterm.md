@@ -3,6 +3,7 @@ content_type: resource
 description: Exploration of the dismantling of wearable objects. Marissa Jahn's midterm
   presentation.
 file: /courses/4-370-interrogative-design-workshop-fall-2005/c06a4354773225a1747e1737e76aa8ac_jahn_midterm.jpg
+file_size: 35701
 file_type: image/jpeg
 image_metadata:
   caption: Exploration of the dismantling of wearable objects.

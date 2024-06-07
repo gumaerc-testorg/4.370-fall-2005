@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on urban/landscape, deployment, precedent,
   subversion.
 file: /courses/4-370-interrogative-design-workshop-fall-2005/cb3369f8ccefe62c169d19bcfe17bd39_casey_renner.pdf
+file_size: 2089654
 file_type: application/pdf
 learning_resource_types:
 - Projects
