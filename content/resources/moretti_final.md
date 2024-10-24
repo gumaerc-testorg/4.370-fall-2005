@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bren Galvez-Moretti's final presentation. Image courtesy of Bren Galvez-Moretti.
-file: /courses/4-370-interrogative-design-workshop-fall-2005/58965178c9c35ba073aef58e9788ea33_moretti_final.jpg
+file: /ol-ocw-studio-app/courses/4-370-interrogative-design-workshop-fall-2005/58965178c9c35ba073aef58e9788ea33_moretti_final.jpg
 file_size: 30487
 file_type: image/jpeg
 image_metadata:
