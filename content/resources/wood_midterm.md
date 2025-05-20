@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Ben Wood's midterm presentation. Image courtesy of Ben Wood.
-file: /ol-ocw-studio-app/courses/4-370-interrogative-design-workshop-fall-2005/3a5c0d97fb59e35bdc186e910b5cd263_wood_midterm.jpg
+file: /courses/4-370-interrogative-design-workshop-fall-2005/3a5c0d97fb59e35bdc186e910b5cd263_wood_midterm.jpg
 file_size: 36005
 file_type: image/jpeg
 image_metadata:
