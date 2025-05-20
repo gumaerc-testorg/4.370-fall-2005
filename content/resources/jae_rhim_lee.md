@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the project report to develop a tool that would
   facilitate public urination.
-file: /ol-ocw-studio-app/courses/4-370-interrogative-design-workshop-fall-2005/f4c5285ef7f01b0a6ba83a820f303c02_jae_rhim_lee.pdf
+file: /courses/4-370-interrogative-design-workshop-fall-2005/f4c5285ef7f01b0a6ba83a820f303c02_jae_rhim_lee.pdf
 file_size: 6256966
 file_type: application/pdf
 learning_resource_types:

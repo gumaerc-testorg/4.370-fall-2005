@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Amber Frid-Jimenez's final presentation. Image courtesy of Amber Frid-Jimenez.
-file: /ol-ocw-studio-app/courses/4-370-interrogative-design-workshop-fall-2005/70bd7303e244402d48a971d51b85bc6b_jimenez_final.jpg
+file: /courses/4-370-interrogative-design-workshop-fall-2005/70bd7303e244402d48a971d51b85bc6b_jimenez_final.jpg
 file_size: 29553
 file_type: image/jpeg
 image_metadata:
