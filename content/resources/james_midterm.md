@@ -4,7 +4,7 @@ description: 'Kate James presents her midterm exploration: a skirt which is empl
   both to provide an isolated space for the wearer while also extended to suggest
   a space for the second person with whom one might converse. Image courtesy of Kate
   James.'
-file: /courses/4-370-interrogative-design-workshop-fall-2005/a7b6cd77fa6b594743f0d390d7991674_james_midterm.jpg
+file: /ol-ocw-studio-app/courses/4-370-interrogative-design-workshop-fall-2005/a7b6cd77fa6b594743f0d390d7991674_james_midterm.jpg
 file_size: 28756
 file_type: image/jpeg
 image_metadata:
