@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Kate James'' final project: the utterlounge, a chaise designed with
   an attached sound conduit. Image courtesy of Kate James.'
-file: /courses/4-370-interrogative-design-workshop-fall-2005/ef6c41a86b8f0ed1b069790e80110426_james_final.jpg
+file: /ol-ocw-studio-app/courses/4-370-interrogative-design-workshop-fall-2005/ef6c41a86b8f0ed1b069790e80110426_james_final.jpg
 file_size: 37716
 file_type: image/jpeg
 image_metadata:

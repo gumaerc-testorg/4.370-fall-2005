@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Hope Ginsberg's midterm presentation. Image courtesy of Hope Ginsburg.
-file: /courses/4-370-interrogative-design-workshop-fall-2005/7b84e6a585b6c13f39c9d4f636967deb_ginsburg_midterm.jpg
+file: /ol-ocw-studio-app/courses/4-370-interrogative-design-workshop-fall-2005/7b84e6a585b6c13f39c9d4f636967deb_ginsburg_midterm.jpg
 file_size: 33562
 file_type: image/jpeg
 image_metadata:
